@@ -2,7 +2,7 @@ import React from 'react';
 
 const InvoicesPage = () => {
 	return (
-		<div>
+		<div className="text-blue-500">
 			Invoices Page
 		</div>
 	);
