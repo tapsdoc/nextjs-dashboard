@@ -1,15 +1,15 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-	title: 'Customers',
+	title: 'Login',
 };
 
-const CustomersPage = () => {
+const LoginPage = () => {
 	return (
 		<div>
-			Customers page
+		
 		</div>
 	);
 };
 
-export default CustomersPage;
+export default LoginPage;
