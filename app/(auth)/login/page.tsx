@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 const LoginPage = () => {
 	return (
 		<div>
-		
+			Login Page
 		</div>
 	);
 };
